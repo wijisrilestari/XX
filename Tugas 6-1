@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+ <head> 
+  <meta charset="UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <link rel="stylesheet" href="6-3.css"> 
+  <title>Tugas 6-3</title> 
+ </head> 
+ <body> 
+  <header></header> 
+  <div class="wrapper-article-aside"> 
+   <aside></aside> 
+   <article> 
+    <div class="flex-container"> 
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8b60mBINFfe-mFv_36HhtxtgnAZh6cEVAvCVaQfOJWkBK82UeELI7PjjD&amp;s=10"> 
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUKIDGODsAt0KJb6QDv4Hh_aX5D0zlq3hOukWFxwPXXDXee1sRk1DEkY&amp;s=10"> 
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCu1YLbmR3Iag5tyZrMwE7_B7MlVF6EvoovOk3Xz-zXhM3XRoBzSYZ8bGl&amp;s=10"> 
+    </div> 
+   </article> 
+  </div> 
+  <footer></footer> 
+ </body>
+</html>
